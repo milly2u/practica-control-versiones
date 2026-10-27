@@ -1,0 +1,2 @@
+Esta práctica me ayuda a comprender cómo organizar
+los cambios de un proyecto usando Git y GitHub.
